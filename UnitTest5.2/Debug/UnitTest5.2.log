@@ -1,0 +1,4 @@
+﻿  UnitTest5.2.cpp
+C:\Users\Юра\source\repos\5.2\UnitTest5.2\UnitTest5.2.cpp(15,23): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Юра\source\repos\5.2\UnitTest5.2\UnitTest5.2.cpp(15,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  UnitTest5.2.vcxproj -> C:\Users\Юра\source\repos\5.2\Debug\UnitTest5.2.dll
